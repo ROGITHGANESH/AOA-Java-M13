@@ -20,8 +20,6 @@ After recursion completes, print all generated permutations stored in ans.
 
 ## Program:
 ```
-Developed by:  HEMANATH K
-Register Number:212223100012
 import java.util.*;
 
 public class Solution {
