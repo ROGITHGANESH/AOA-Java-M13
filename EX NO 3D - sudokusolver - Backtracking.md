@@ -33,8 +33,7 @@ Otherwise, print “No solution exists.”
 
 ## Program:
 ```
-Developed by: HEMANATH K
-Register Number:212223100012
+
 import java.util.Scanner;
 
 public class SudokuSolver {
